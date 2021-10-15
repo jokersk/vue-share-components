@@ -1,8 +1,6 @@
 <script setup>
-import * as shareComponents from "vue-share-components";
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-import HelloWorld from "./components/HelloWorld.vue";
+import { FadeEffect } from "vue-share-components";
+console.log(FadeEffect);
 </script>
 
 <template>

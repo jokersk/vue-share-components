@@ -1,4 +1,4 @@
-import FadeEffect from './components/FadeEffect.vue'
+import fadeEffect from './components/FadeEffect.vue'
 export default {
-  FadeEffect
+    fadeEffect
 }
