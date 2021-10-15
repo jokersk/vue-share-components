@@ -9,3 +9,13 @@
     </template>
   </Collapse>
 ```
+
+## FadeEffect
+
+```javascript
+
+<FadeEffect>
+    <div>hihi</div>
+</FadeEffect>
+
+```
