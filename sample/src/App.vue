@@ -1,6 +1,6 @@
 <script setup>
-import { FadeEffect } from "vue-share-components";
-console.log(FadeEffect);
+import foo from "vue-share-components";
+console.log(foo);
 </script>
 
 <template>

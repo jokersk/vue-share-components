@@ -319,7 +319,7 @@ vite@^2.6.4:
 
 "vue-share-components@https://github.com/jokersk/vue-share-components.git":
   version "1.0.0"
-  resolved "https://github.com/jokersk/vue-share-components.git#b21c26b93df0e8454482065b4397aa4c8a31e64f"
+  resolved "https://github.com/jokersk/vue-share-components.git#57ccc0d279f11b0703182a7daca66bb577ffb553"
 
 vue@^3.2.16:
   version "3.2.20"
