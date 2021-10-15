@@ -1,11 +1,19 @@
 <script setup>
-import foo from "vue-share-components";
-const { fadeEffect: FadeEffect } = foo;
+import FadeEffect from "vue-share-components/components/FadeEffect.vue";
+import Collapse from "vue-share-components/components/Collapse.vue";
 </script>
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" />
+  <Collapse>
+    <template v-slot:trigger>
+      <button>click me</button>
+    </template>
+    <template v-slot>
+      <div>content</div>
+    </template>
+  </Collapse>
   <div style="height: 4000px"></div>
   <FadeEffect>
     <div>1212121</div>

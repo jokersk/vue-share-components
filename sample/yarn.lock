@@ -318,10 +318,12 @@ vite@^2.6.4:
     fsevents "~2.3.2"
 
 "vue-share-components@https://github.com/jokersk/vue-share-components.git":
-  version "1.0.1"
-  resolved "https://github.com/jokersk/vue-share-components.git#8dc0f2bfede94cc57176d1c745b661de62bed801"
+  version "1.0.2"
+  resolved "https://github.com/jokersk/vue-share-components.git#2ac3a53a500b688461212892d6665a0bcc31b2e7"
+  dependencies:
+    vue "^3.2.20"
 
-vue@^3.2.16:
+vue@^3.2.16, vue@^3.2.20:
   version "3.2.20"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.20.tgz#940f8aa8bf3e3be78243ca582bad41fcd45ae3e6"
   integrity sha512-81JjEP4OGk9oO8+CU0h2nFPGgJBm9mNa3kdCX2k6FuRdrWrC+CNe+tOnuIeTg8EWwQuI+wwdra5Q7vSzp7p4Iw==
