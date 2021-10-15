@@ -1,11 +1,12 @@
 <script setup>
 import foo from "vue-share-components";
-console.log(foo);
+const { fadeEffect: FadeEffect } = foo;
 </script>
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" />
+  <div style="height: 4000px"></div>
   <FadeEffect>
     <div>1212121</div>
   </FadeEffect>

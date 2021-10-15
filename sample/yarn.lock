@@ -318,8 +318,8 @@ vite@^2.6.4:
     fsevents "~2.3.2"
 
 "vue-share-components@https://github.com/jokersk/vue-share-components.git":
-  version "1.0.0"
-  resolved "https://github.com/jokersk/vue-share-components.git#57ccc0d279f11b0703182a7daca66bb577ffb553"
+  version "1.0.1"
+  resolved "https://github.com/jokersk/vue-share-components.git#8dc0f2bfede94cc57176d1c745b661de62bed801"
 
 vue@^3.2.16:
   version "3.2.20"

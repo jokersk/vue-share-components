@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jokersk/vue-share-components/issues"
   },
-  "homepage": "https://github.com/jokersk/vue-share-components#readme"
+  "homepage": "https://github.com/jokersk/vue-share-components#readme",
+  "dependencies": {
+    "vue": "^3.2.20"
+  }
 }
